@@ -3,6 +3,7 @@ Library    SeleniumLibrary
 
 *** Variables ***
 
+
 *** Test Cases ***
 ค้นหาคำว่า วัคซีน ใน google จะเจอคำว่า วัคซีนโควิด 19
     เข้า website google ด้วย chrome browser
